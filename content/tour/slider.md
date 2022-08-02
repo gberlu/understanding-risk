@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: contact.jpg
       link:
         icon: file
         icon_pack: fas
