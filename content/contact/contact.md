@@ -15,12 +15,12 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: g.berlusconi@surrey.ac.uk
-  phone: 07517 367918
-  address:
-    street: University of Surrey
-    city: Guildford
-    postcode: 'GU2 7XH'
+#  email: g.berlusconi@surrey.ac.uk
+#  phone: 07517 367918
+#  address:
+#    street: University of Surrey
+#    city: Guildford
+#    postcode: 'GU2 7XH'
 #    country: United States
 #    country_code: US
 #  coordinates:
@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Do not hesitate to send a message using the form below, or to reach out with the contact information in the [People]{https://understanding-risk.netlify.app/people/) tab.
