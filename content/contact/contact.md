@@ -53,9 +53,7 @@ content:
   form:
     provider: formspree
     formspree:
-      action: https://formspree.io/f/xrgdzlew
-      method="POST"
-      id: 
+      id: https://formspree.io/f/xrgdzlew
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
