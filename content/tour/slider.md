@@ -28,19 +28,19 @@ content:
         icon_pack: fas
         text: More information
         url: 'https://understanding-risk.netlify.app/post/2022-02-01_introducing-the-project/'
-#    - title: Lunch & Learn ☕️
-#      content: 'Share your knowledge with the group and explore exciting new topics together!'
-#      align: left
-#      background:
-#        position: center
-#        color: '#555'
-#        brightness: 0.7
-#        media: contact.jpg
-#      link:
-#        icon: file
-#        icon_pack: fas
-#        text: More information
-#        url: ../news/
+    - title: Take part in the study
+      content: 'We are interested in talking to men who buy sex in England and Wales'
+      align: right
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
+      link:
+        icon: file
+        icon_pack: fas
+        text: Take part
+        url: 'https://understanding-risk.netlify.app/post/2022-08-01_recruiting-participants/'
     - title: Are you a man who buys sex in England and Wales?
       content: 'Consider taking part in the study'
       align: right
@@ -52,6 +52,6 @@ content:
       link:
         icon: envelope
         icon_pack: fas
-        text: Contact Us
+        text: Contact us
         url: ../contact/
 ---
