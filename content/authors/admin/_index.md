@@ -68,4 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Giulia Berlusconi is a lecturer in criminology in the [Department of Sociology](https://www.surrey.ac.uk/department-sociology) at the [University of Surrey](https://www.surrey.ac.uk). Her research focuses on illicit and unregulated markets, and primarily on three areas: drug markets; commercial sex markets; organised crime and illicit markets.
+Giulia Berlusconi is a Lecturer in Criminology in the [Department of Sociology](https://www.surrey.ac.uk/department-sociology) at the [University of Surrey](https://www.surrey.ac.uk). Her research focuses on illicit and unregulated markets, and primarily on three areas: drug markets; commercial sex markets; organised crime and illicit markets.
