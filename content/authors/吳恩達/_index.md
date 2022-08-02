@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Co-investigators
 ---
 Luca Giommoni is a Senior Lecturer in Criminology in the [School of Social Sciences](https://www.cardiff.ac.uk/social-sciences) at [Cardiff University](https://www.cardiff.ac.uk). His research focuses on drug markets and any other form of illicit trafficking (e.g., human trafficking).
