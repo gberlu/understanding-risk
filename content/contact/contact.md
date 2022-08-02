@@ -53,7 +53,9 @@ content:
   form:
     provider: formspree
     formspree:
-      id: understanding-risk
+      action: https://formspree.io/f/xrgdzlew
+      method="POST"
+      id: 
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
