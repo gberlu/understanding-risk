@@ -5,9 +5,11 @@ image:
   focal_point: 'top'
 ---
 
-*The project explores how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, and how changes in prostitution legislation may impact on their willingness to purchase sexual services.*
+The project explores how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, and how changes in prostitution legislation may impact on their willingness to purchase sexual services.
 
 <!--more-->
+
+***
 
 Despite an ongoing policy debate regarding further criminalising the purchase of sex in England and Wales, we know very little about how clients respond to prostitution policy and legislation. Facing the risk of arrest and prosecution is unlikely to deter clients from buying sexual services but may prevent them from reporting suspected cases of exploitation. Stigma, victimisation, and health risks may also contribute to clients’ risk-assessment and decision-making processes. This study explores how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services.
 
