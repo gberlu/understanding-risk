@@ -35,7 +35,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: microphone.jpg
       link:
         icon: file
         icon_pack: fas
