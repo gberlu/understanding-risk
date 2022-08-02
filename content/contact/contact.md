@@ -53,7 +53,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: test
+      id: understanding-risk
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
