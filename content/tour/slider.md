@@ -15,14 +15,19 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: Introducing the project
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: umbrella.jpg
+      link:
+        icon: circle-question
+        icon_pack: fas
+        text: More information
+        url: ../news/
 #    - title: Lunch & Learn ☕️
 #      content: 'Share your knowledge with the group and explore exciting new topics together!'
 #      align: left
@@ -31,6 +36,11 @@ content:
 #        color: '#555'
 #        brightness: 0.7
 #        media: contact.jpg
+#      link:
+#        icon: file
+#        icon_pack: fas
+#        text: More information
+#        url: ../news/
     - title: Are you a man who buys sex in England and Wales?
       content: 'Consider taking part in the study'
       align: right
@@ -39,11 +49,6 @@ content:
         color: '#333'
         brightness: 0.5
         media: contact.jpg
-      link:
-        icon: file
-        icon_pack: fas
-        text: More information
-        url: ../news/
       link:
         icon: envelope
         icon_pack: fas
