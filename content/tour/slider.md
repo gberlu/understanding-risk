@@ -30,7 +30,7 @@ content:
         url: 'https://understanding-risk.netlify.app/post/2022-02-01_introducing-the-project/'
     - title: Take part in the study
       content: 'We are interested in talking to men who buy sex in England and Wales'
-      align: right
+      align: left
       background:
         position: center
         color: '#555'
@@ -41,8 +41,8 @@ content:
         icon_pack: fas
         text: Take part
         url: 'https://understanding-risk.netlify.app/post/2022-08-01_recruiting-participants/'
-    - title: Are you a man who buys sex in England and Wales?
-      content: 'Consider taking part in the study'
+    - title: Would you like more information about the study?
+      content: 'Do not hesitate to reach out'
       align: right
       background:
         position: center
