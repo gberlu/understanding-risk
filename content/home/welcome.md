@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Understanding risk  
+  in commercial sex markets
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+This project explores how men who buy sex in England and Wales understand and perceive the risks associated with it, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services.
