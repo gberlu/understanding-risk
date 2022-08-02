@@ -27,7 +27,7 @@ content:
         icon: circle-question
         icon_pack: fas
         text: More information
-        url: ../news/
+        url: 'https://understanding-risk.netlify.app/post/2022-02-01_introducing-the-project/'
 #    - title: Lunch & Learn ☕️
 #      content: 'Share your knowledge with the group and explore exciting new topics together!'
 #      align: left
