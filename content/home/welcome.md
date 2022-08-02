@@ -20,4 +20,4 @@ design:
 
 <br>
 
-This project explores how men who buy sex in England and Wales understand and perceive the risks associated with it, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services.
+This project explores how men who buy sex in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to purchase sexual services.
