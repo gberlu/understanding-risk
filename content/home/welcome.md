@@ -20,6 +20,4 @@ design:
 
 <br>
 
-This project explores how men who buy sex in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to purchase sexual services.
-
-The project is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
+This project explores how men who buy sex in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to purchase sexual services. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
