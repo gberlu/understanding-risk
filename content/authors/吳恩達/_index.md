@@ -68,4 +68,4 @@ email: ''
 user_groups:
   - Co-investigators
 ---
-Luca Giommoni is a Senior Lecturer in Criminology in the [School of Social Sciences](https://www.cardiff.ac.uk/social-sciences) at [Cardiff University](https://www.cardiff.ac.uk). His research focuses on drug markets and any other form of illicit trafficking (e.g., human trafficking).
+Luca Giommoni is a Reader in Criminology in the [School of Social Sciences](https://www.cardiff.ac.uk/social-sciences) at [Cardiff University](https://www.cardiff.ac.uk). His research focuses on drug markets and any other form of illicit trafficking (e.g., human trafficking).
