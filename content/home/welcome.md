@@ -20,4 +20,4 @@ design:
 
 <br>
 
-This project explores how men who engage with and visit escorts in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to visit service providers. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
+This project explores how men who engage with and visit escorts in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to visit service providers.
