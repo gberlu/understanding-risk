@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Lecturer in Criminology
+role: Reader in Criminology
 
 # Organizations/Affiliations
 organizations:
