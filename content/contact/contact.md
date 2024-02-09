@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
 email: UnderstandingRisk@surrey.ac.uk
-phone: +44 (0)7783 579460
+phone: 07783 579460
 #  address:
 #    street: University of Surrey
 #    city: Guildford
