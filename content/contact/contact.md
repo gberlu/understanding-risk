@@ -62,4 +62,4 @@ design:
   columns: '1'
 ---
 
-Do not hesitate to send a message using the form below, or to reach out with the contact information in the [People](https://understanding-risk.netlify.app/people/) tab. We also have a dedicated project phone number - 07783 579460 - that you can use to call/text us (via WhatsApp or Telegram), and a project email address - UnderstandingRisk@surrey.ac.uk.
+Do not hesitate to send a message using the form below, or to reach out with the contact information in the [People](https://understanding-risk.netlify.app/people/) tab. We also have a dedicated project phone number - 07783 579460 - that you can use to call / text us (via WhatsApp or Telegram), and a project email address - UnderstandingRisk@surrey.ac.uk.
