@@ -13,10 +13,10 @@ title: Contact
 subtitle:
 
 content:
-Contact (edit or remove options as required)
+#  Contact (edit or remove options as required)
 
-email: UnderstandingRisk@surrey.ac.uk
-phone: 07783 579460
+#  email: UnderstandingRisk@surrey.ac.uk
+#  phone: 07783 579460
 #  address:
 #    street: University of Surrey
 #    city: Guildford
@@ -62,4 +62,4 @@ design:
   columns: '1'
 ---
 
-Do not hesitate to send a message using the form below, or to reach out with the contact information in the [People](https://understanding-risk.netlify.app/people/) tab.
+Do not hesitate to send a message using the form below, or to reach out with the contact information in the [People](https://understanding-risk.netlify.app/people/) tab. We also have a dedicated project phone number - 07783 579460 - that you can use to call/text us (via Whatsapp or Telegram), and a project email address - UnderstandingRisk@surrey.ac.uk.
