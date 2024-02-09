@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 
 content:
-  # Contact (edit or remove options as required)
+Contact (edit or remove options as required)
 
 email: UnderstandingRisk@surrey.ac.uk
 phone: 07783 579460
