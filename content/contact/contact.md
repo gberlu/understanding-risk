@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-#  email: g.berlusconi@surrey.ac.uk
-#  phone: 07517 367918
+email: UnderstandingRisk@surrey.ac.uk
+phone: +44 (0)7783 579460
 #  address:
 #    street: University of Surrey
 #    city: Guildford
