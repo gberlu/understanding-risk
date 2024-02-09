@@ -29,7 +29,7 @@ content:
         text: More information
         url: 'https://understanding-risk.netlify.app/post/2022-02-01_introducing-the-project/'
     - title: Take part in the study
-      content: 'We are interested in talking to men who buy sex in England and Wales'
+      content: 'We are interested in talking to men who have engaged with and visited escorts'
       align: left
       background:
         position: center
