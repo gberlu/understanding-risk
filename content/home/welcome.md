@@ -20,4 +20,4 @@ design:
 
 <br>
 
-This project explores how men who engage with and visit escorts in England and Wales understand and perceive the risks associated with it, and how changes in legislation may impact on their willingness to visit service providers.
+This project explores how men who engage with and visit full-service sex workers in England and Wales understand and perceive law enforcement risks associated with it, and how changes in legislation may impact on their willingness to visit service providers.
