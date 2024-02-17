@@ -3,7 +3,7 @@ title: Introducing the project
 date: 2022-02-01
 ---
 
-The project explores how men who engage with and visit full-service sex workers in England and Wales understand and perceive law enforcement risks associated with it, and how changes in prostitution legislation may impact on their willingness to visit escorts. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
+The project explores how men who engage with and visit full-service sex workers in England and Wales understand and perceive law enforcement risks associated with it, and how changes in prostitution legislation may impact on their willingness to visit service providers. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
 
 <!--more-->
 
