@@ -7,8 +7,6 @@ categories: media
 
 The project explores how men who engage with and visit full-service sex workers in England and Wales understand and perceive law enforcement risks associated with it, and how changes in prostitution legislation may impact on their willingness to visit service providers. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
 
-![Photo by Edu Lauton on Unsplash](/assets/news_1.jpg)
-
 <img src="assets/news_1.jpg" class="img-responsive" alt=""> </div>
 
 
