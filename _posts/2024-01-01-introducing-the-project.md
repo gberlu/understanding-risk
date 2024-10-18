@@ -1,6 +1,6 @@
 ---
 title:  "Introducing the project"
-mathjax: false
+mathjax: true
 layout: post
 categories: media
 ---
