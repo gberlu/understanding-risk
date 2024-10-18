@@ -9,6 +9,8 @@ The project explores how men who engage with and visit full-service sex workers 
 
 ![Photo by Edu Lauton on Unsplash](/assets/news_1.jpg)
 
+<img src="assets/news_1.jpg" class="img-responsive" alt=""> </div>
+
 
 Despite an ongoing policy debate regarding further criminalising buying sexual services in England and Wales, we know very little about how clients respond to prostitution policy and legislation. Facing the risk of arrest and prosecution is unlikely to deter clients from visiting service providers but may prevent them from reporting suspected cases of exploitation. This study explores how men who engage with service providers in England and Wales understand and perceive law enforcement risks associated with visiting sex workers, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to engage with sex workers in the future.
 
