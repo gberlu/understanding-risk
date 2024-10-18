@@ -7,7 +7,7 @@ categories: media
 
 The project explores how men who engage with and visit full-service sex workers in England and Wales understand and perceive law enforcement risks associated with it, and how changes in prostitution legislation may impact on their willingness to visit service providers. It is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
 
-![Photo by Edu Lauton on Unsplash](/assets/images/news_1.jpg)
+![Photo by Edu Lauton on Unsplash](../assets/images/news_1.jpg)
 
 
 Despite an ongoing policy debate regarding further criminalising buying sexual services in England and Wales, we know very little about how clients respond to prostitution policy and legislation. Facing the risk of arrest and prosecution is unlikely to deter clients from visiting service providers but may prevent them from reporting suspected cases of exploitation. This study explores how men who engage with service providers in England and Wales understand and perceive law enforcement risks associated with visiting sex workers, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to engage with sex workers in the future.
