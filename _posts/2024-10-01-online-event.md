@@ -7,8 +7,8 @@ categories: media
 
 Learn about the key findings from the study by joining a free, online event on Friday, 1st November 2024, 2-3pm.
 
-![Photo by Steven Cordes on Unsplash](/assets/images/home.jpg)
 
+![Photo by Steven Cordes on Unsplash](../assets/images/home.jpg)
 
 How do men who engage with and visit full-service sex workers understand and perceive law enforcement risk associated with it? To what extent do changes in legislation may impact on their willingness to visit service providers? Under what circumstances may clients become ‘accountable active participants’ in commercial sex markets? 
 
